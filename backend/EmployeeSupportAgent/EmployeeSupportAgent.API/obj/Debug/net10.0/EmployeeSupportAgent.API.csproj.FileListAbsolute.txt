@@ -387,3 +387,4 @@
 /Users/dheeraj/Documents/AI-Employee-Support-Agent/backend/EmployeeSupportAgent/EmployeeSupportAgent.API/bin/Debug/net10.0/Npgsql.dll
 /Users/dheeraj/Documents/AI-Employee-Support-Agent/backend/EmployeeSupportAgent/EmployeeSupportAgent.API/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/dheeraj/Documents/AI-Employee-Support-Agent/backend/EmployeeSupportAgent/EmployeeSupportAgent.API/bin/Debug/net10.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/dheeraj/Documents/AI-Employee-Support-Agent/backend/EmployeeSupportAgent/EmployeeSupportAgent.API/obj/Debug/net10.0/EmployeeSupportAgent.API.sourcelink.json
