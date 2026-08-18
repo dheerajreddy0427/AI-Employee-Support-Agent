@@ -1,0 +1,21 @@
+{
+  "name": "ai-employee-support-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheerajreddy0427/AI-Employee-Support-Agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dheerajreddy0427/AI-Employee-Support-Agent/issues"
+  },
+  "homepage": "https://github.com/dheerajreddy0427/AI-Employee-Support-Agent#readme"
+}
